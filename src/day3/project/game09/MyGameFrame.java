@@ -22,7 +22,7 @@ public class MyGameFrame  extends  Frame {
 	Image   bg  = GameUtil.getImage("images/bg.jpg");
 	
 	Plane   plane = new Plane(planeImg,250,250);
-	Shell[]   shells = new Shell[20];
+	Shell[]   shells = new Shell[15];
 	
 	Explode   bao ;
 	Date  startTime = new Date();
@@ -108,7 +108,7 @@ public class MyGameFrame  extends  Frame {
 		this.setTitle("Œ‚¥Û÷“VS¬≥ª€");
 		this.setVisible(true);
 		this.setSize(Constant.GAME_WIDTH	, Constant.GAME_HEIGHT);
-		this.setLocation(300, 300);
+		this.setLocation(500, 500);
 		
 		this.addWindowListener(new WindowAdapter() {
 			@Override
