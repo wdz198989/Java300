@@ -15,13 +15,13 @@ import java.net.Socket;
  */
 public class Server {
 
-	/**
-	 * @param args
-	 * @throws IOException 
-	 */
 	public static void main(String[] args) throws IOException {
+		System.out.println("-------- 服务端---------");
+		//TODO 1 指定端口，使用ServerSocket 创建服务器
 		ServerSocket server =new ServerSocket(9999);
+		//TODO 2 阻塞式等待连接 accept
 		Socket client =server.accept();
+		System.out.println("一个客户端建立了连接");
 		
 		//写出数据
 		//输入流
@@ -31,10 +31,7 @@ public class Server {
 		DataOutputStream dos = new DataOutputStream(client.getOutputStream());
 		dos.writeUTF("服务器-->"+msg);
 		dos.flush();
-		
-		
-		
-		
+
 		
 	}
 

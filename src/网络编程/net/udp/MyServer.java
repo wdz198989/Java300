@@ -22,8 +22,9 @@ public class MyServer {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
+		System.out.println("接收方方启动中。。。。。。。。。。。。。。。。。。。。。");
 		//1、创建服务端 +端口
-		DatagramSocket server = new DatagramSocket(8888);
+		DatagramSocket server = new DatagramSocket(8899);
 		//2、准备接受容器
 		byte[] container = new byte[1024];
 		//3、封装成 包 DatagramPacket(byte[] buf, int length) 		

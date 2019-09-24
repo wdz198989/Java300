@@ -13,7 +13,7 @@ public class TestBinarySearch {
 		 Arrays.sort(arr);
 
 		 System.out.println(Arrays.toString(arr));
-		 System.out.println(myBinarySearch(arr, 7));
+		 System.out.println(myBinarySearch(arr, 100));
 		 
 	}
 	

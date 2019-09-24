@@ -2,6 +2,30 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/src/day3/TestObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-10.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-11.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-4.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-6.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-7.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-8.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/dom-9.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-4.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-5.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/ex-7.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/helloworld.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/js-1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/js-2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/js-3.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javaScript/note.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/summary/NIO/day1/TestChannel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIO2.java" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

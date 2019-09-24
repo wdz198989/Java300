@@ -21,8 +21,10 @@ public class InetSockeDemo01 {
 		System.out.println(address.getHostName());
 		System.out.println(address.getPort());
 		InetAddress addr =address.getAddress();
-		System.out.println(addr.getHostAddress());  //返回：地址
-		System.out.println(addr.getHostName());  //输出计算机名
+		System.out.println(addr.getHostAddress());
+		//返回：地址
+		System.out.println(addr.getHostName());
+		//输出计算机名
 		
 	}
 

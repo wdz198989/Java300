@@ -26,13 +26,14 @@ public class Client {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
+		System.out.println("发送方启动中。。。。。。。。。。。。。。。。。。。。。");
 		//1、创建客户端 +端口
 		DatagramSocket client = new DatagramSocket(6666);
 		//2、准备数据
 		double num =89.12;
 		byte[] data =convert(num);
 		//3、打包（发送的地点 及端口） DatagramPacket(byte[] buf, int length, InetAddress address, int port)
-		DatagramPacket packet = new DatagramPacket(data,data.length,new InetSocketAddress("localhost",8888));
+		DatagramPacket packet = new DatagramPacket(data,data.length,new InetSocketAddress("localhost",8887));
 		//4、发送
 		client.send(packet);
 		//5、释放

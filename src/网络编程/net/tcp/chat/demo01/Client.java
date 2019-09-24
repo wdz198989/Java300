@@ -13,24 +13,13 @@ import java.net.UnknownHostException;
  * 写出数据：输出流
  * 读取数据：输入流
  * 
-    输入流 与输出流 在同一个线程内 应该 独立处理，彼此独立
-    
-    
-    
- * 
- * 
- * 
- * @author Administrator
- *
+  *  输入流 与输出流 在同一个线程内 应该 独立处理，彼此独立
  */
 public class Client {
 
-	/**
-	 * @param args
-	 * @throws IOException 
-	 * @throws UnknownHostException 
-	 */
 	public static void main(String[] args) throws UnknownHostException, IOException {
+		System.out.println("-------- 客户端---------");
+		//TODO 1 建立连接：使用socket创建客户端+ 服务的地址和端口
 		Socket client = new Socket("localhost",9999);
 		//控制台输入流
 		BufferedReader console = new BufferedReader(new InputStreamReader(System.in));

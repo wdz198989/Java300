@@ -18,18 +18,14 @@ import java.net.DatagramSocket;
  *
  */
 public class Server {
-
-	/**
-	 * @param args
-	 * @throws IOException 
-	 */
 	public static void main(String[] args) throws IOException {
+		System.out.println("接收方方启动中。。。。。。。。。。。。。。。。。。。。。");
 		//1、创建服务端 +端口
-		DatagramSocket server = new DatagramSocket(8888);
+		DatagramSocket server = new DatagramSocket(8887);
 		//2、准备接受容器
 		byte[] container = new byte[1024];
 		//3、封装成 包 DatagramPacket(byte[] buf, int length) 		
-		DatagramPacket packet =new DatagramPacket(container, container.length) ;
+		DatagramPacket packet =new DatagramPacket(container,0, container.length) ;
 		//4、接受数据
 		server.receive(packet);
 		//5、分析数据

@@ -1,6 +1,6 @@
 package 多线程.thread.create;
 /**
- * 静态代理 设计模式
+ * 静态代理 designPattern
  * 1、真实角色
  * 2、代理角色： 持有真实角色的引用
  * 3、二者 实现相同的接口
