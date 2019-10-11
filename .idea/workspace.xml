@@ -9,21 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/ex-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/ex-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/ex-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/ex-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaScript/js-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/js-3.html" afterDir="false" />
-    </list>
+    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -229,15 +215,6 @@
               <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java300" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java300" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -258,7 +235,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -489,7 +466,7 @@
       <workItem from="1569418295267" duration="6648000" />
       <workItem from="1569508123012" duration="2055000" />
       <workItem from="1570629252172" duration="789000" />
-      <workItem from="1570803654896" duration="65000" />
+      <workItem from="1570803654896" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="第三天测试">
       <created>1562147483286</created>
@@ -555,7 +532,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268238000" />
+    <option name="totallyTimeSpent" value="268612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,13 +562,13 @@
       <window_info id="TODO" order="6" sideWeight="0.48596752" side_tool="true" weight="0.18498659" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3293944" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5052161" />
       <window_info id="Version Control" order="5" sideWeight="0.48596752" side_tool="true" weight="0.18498659" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.52584934" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.21179625" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.21179625" />
       <window_info anchor="bottom" id="Problems" order="12" weight="0.3293944" />
       <window_info id="Web" order="9" sideWeight="0.67799115" side_tool="true" weight="0.25134048" />
       <window_info anchor="right" id="Theme Preview" order="6" />
