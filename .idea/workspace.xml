@@ -11,20 +11,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java300.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java300.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/array/TestBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/array/TestBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多线程/thread/create/StaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多线程/thread/create/StaticProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/ip/InetSockeDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/ip/InetSockeDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/tcp/chat/demo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/tcp/chat/demo01/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/tcp/chat/demo01/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/tcp/chat/demo01/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/udp/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/udp/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/udp/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/udp/MyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/udp/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/udp/MyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/udp/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/udp/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/url/URLDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/url/URLDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网络编程/net/url/URLDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网络编程/net/url/URLDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/dom-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/dom-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/ex-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/ex-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/ex-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/ex-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaScript/js-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaScript/js-3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,33 +57,39 @@
     <favorites_list name="Java300" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="js-3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaScript/js-3.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dom-7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaScript/dom-7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js-2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaScript/js-2.html">
+      <file leaf-file-name="ex-4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaScript/ex-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js-1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaScript/js-1.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloworld.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaScript/helloworld.html">
+      <file leaf-file-name="dom-8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaScript/dom-8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -119,23 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/summary/variable/NormalHashCodeTest.java" />
-        <option value="$PROJECT_DIR$/src/summary/variable/ConflictHashCodeTest2.java" />
-        <option value="$PROJECT_DIR$/src/summary/variable/ConflictHashCodeTest1.java" />
-        <option value="$PROJECT_DIR$/src/summary/variable/Test.java" />
-        <option value="$PROJECT_DIR$/src/summary/类加载过程/NetClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/summary/类加载过程/Demo01.java" />
-        <option value="$PROJECT_DIR$/src/summary/类加载过程/Demo02.java" />
-        <option value="$PROJECT_DIR$/src/summary/类加载过程/FileSystemClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/summary/类加载过程/Demo03.java" />
-        <option value="$PROJECT_DIR$/src/summary/mapStruct/UserRoleDto.java" />
-        <option value="$PROJECT_DIR$/src/summary/mapStruct/Role.java" />
-        <option value="$PROJECT_DIR$/src/summary/mapStruct/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/summary/mapStruct/User.java" />
-        <option value="$PROJECT_DIR$/src/summary/HelloGC.java" />
-        <option value="$PROJECT_DIR$/src/summary/GC/HelloGC.java" />
-        <option value="$PROJECT_DIR$/src/summary/GC/SoftReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/src/summary/GC/StackOverflowerrorDemo.java" />
         <option value="$PROJECT_DIR$/src/summary/GC/JavaHeapSpaceDemo.java" />
         <option value="$PROJECT_DIR$/src/summary/JUC/TestVolatile.java" />
         <option value="$PROJECT_DIR$/src/summary/JUC/Test.java" />
@@ -156,7 +143,6 @@
         <option value="$PROJECT_DIR$/src/summary/JUC/day2/TestScheduledThreadPool.java" />
         <option value="$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIO.java" />
         <option value="$PROJECT_DIR$/src/summary/NIO/day1/TestBuffer.java" />
-        <option value="$PROJECT_DIR$/src/1.txt" />
         <option value="$PROJECT_DIR$/1.txt" />
         <option value="$PROJECT_DIR$/src/summary/NIO/day1/TestChannel.java" />
         <option value="$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIOWDZ.java" />
@@ -170,6 +156,24 @@
         <option value="$PROJECT_DIR$/src/summary/ForClass/CClass.java" />
         <option value="$PROJECT_DIR$/src/summary/ForClass/TestForClass.java" />
         <option value="$PROJECT_DIR$/src/javaScript/helloworld.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/js-3.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-1.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-3.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-4.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/ex-1.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-5.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-6.html" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/exer/Person.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/java1/OrderTest.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/java2/PackageImportTest.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/exer/Person.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java1/OrderTest.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java2/PackageImportTest.java" />
+        <option value="$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java2/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-7.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/dom-8.html" />
+        <option value="$PROJECT_DIR$/src/javaScript/ex-4.html" />
+        <option value="$PROJECT_DIR$/src/1.txt" />
       </list>
     </option>
   </component>
@@ -218,9 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,24 +236,15 @@
             </path>
             <path>
               <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java300" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaScript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java300" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="网络编程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +258,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -279,11 +271,11 @@
       <recent name="day1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SelfLearn\Java300\src\songhongkangJava30Days\day10" />
+      <recent name="E:\SelfLearn\Java300\src\javaScript\ex-6" />
+      <recent name="E:\SelfLearn\Java300\src\javaScript" />
       <recent name="E:\自我提升\Java300" />
       <recent name="E:\自我提升\Java300\src" />
-      <recent name="E:\自我提升\Java300\src\summary\NIO\day2" />
-      <recent name="E:\自我提升\Java300\src\summary\NIO\day1" />
-      <recent name="E:\自我提升\Java300\src\summary\JUC\day2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,77 +290,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.helloworld.html">
-    <configuration name="TestForClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summary.ForClass.TestForClass" />
-      <module name="Java300" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="summary.ForClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.dom-5.html">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summary.Testwdz.test" />
-      <module name="Java300" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="summary.Testwdz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestNonBlockingNIO2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java300" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="summary.NIO.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="summary.NIO.day2" />
-      <option name="MAIN_CLASS_NAME" value="summary.NIO.day2.TestNonBlockingNIO2" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestNonBlockingNIO2.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java300" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="summary.NIO.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="summary.NIO.day2" />
-      <option name="MAIN_CLASS_NAME" value="summary.NIO.day2.TestNonBlockingNIO2" />
-      <option name="METHOD_NAME" value="send" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -386,7 +310,11 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="helloworld.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/helloworld.html" />
+    <configuration name="dom-3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-3.html" />
+    <configuration name="dom-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-4.html" />
+    <configuration name="dom-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-5.html" />
+    <configuration name="ex-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/ex-1.html" />
+    <configuration name="ex-2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/ex-2.html" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -482,19 +410,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.TomcatWdz" />
-      <item itemvalue="JUnit.TestNonBlockingNIO2.send" />
-      <item itemvalue="JUnit.TestNonBlockingNIO2" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.TestForClass" />
-      <item itemvalue="JavaScript Debug.helloworld.html" />
+      <item itemvalue="JavaScript Debug.dom-3.html" />
+      <item itemvalue="JavaScript Debug.dom-4.html" />
+      <item itemvalue="JavaScript Debug.ex-1.html" />
+      <item itemvalue="JavaScript Debug.ex-2.html" />
+      <item itemvalue="JavaScript Debug.dom-5.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.helloworld.html" />
-        <item itemvalue="Application.TestForClass" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="JUnit.TestNonBlockingNIO2" />
-        <item itemvalue="JUnit.TestNonBlockingNIO2.send" />
+        <item itemvalue="JavaScript Debug.dom-5.html" />
+        <item itemvalue="JavaScript Debug.ex-2.html" />
+        <item itemvalue="JavaScript Debug.ex-1.html" />
+        <item itemvalue="JavaScript Debug.dom-4.html" />
+        <item itemvalue="JavaScript Debug.dom-3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +485,11 @@
       <workItem from="1565877946766" duration="139000" />
       <workItem from="1567004045966" duration="413000" />
       <workItem from="1567435786073" duration="16000" />
-      <workItem from="1569336893638" duration="1579000" />
+      <workItem from="1569336893638" duration="2800000" />
+      <workItem from="1569418295267" duration="6648000" />
+      <workItem from="1569508123012" duration="2055000" />
+      <workItem from="1570629252172" duration="789000" />
+      <workItem from="1570803654896" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="第三天测试">
       <created>1562147483286</created>
@@ -580,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562867638670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="截止到9.24">
+      <created>1569339748647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569339748647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -616,7 +555,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257460000" />
+    <option name="totallyTimeSpent" value="268238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -652,20 +591,20 @@
       <window_info id="Version Control" order="5" sideWeight="0.48596752" side_tool="true" weight="0.18498659" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.52584934" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.20107238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.21179625" />
       <window_info anchor="bottom" id="Problems" order="12" weight="0.3293944" />
       <window_info id="Web" order="9" sideWeight="0.67799115" side_tool="true" weight="0.25134048" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="10" sideWeight="0.107828654" side_tool="true" weight="0.1883378" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" sideWeight="0.48596752" weight="0.18463811" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3293944" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3293944" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3293944" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Hierarchy" order="8" sideWeight="0.661743" side_tool="true" weight="0.15616623" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3293944" />
     </layout>
     <layout-to-restore>
       <window_info id="FindBugs-IDEA" order="5" sideWeight="0.124076806" side_tool="true" weight="0.15616623" />
@@ -715,7 +654,8 @@
     <MESSAGE value="第三天测试" />
     <MESSAGE value="第三天完成" />
     <MESSAGE value="截止到7.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="截止到7.11" />
+    <MESSAGE value="截止到9.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="截止到9.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,7 +682,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="32" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -759,153 +699,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/多线程/MyThread/StartRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/CallableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestProductorAndConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestProductorAndConsumerForLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestABCAlternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestEDFAlternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="109" column="20" lean-forward="true" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/TestVolatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestThread8Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1063">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestScheduledThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/JUC/day2/TestForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day1/TestBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day1/TestChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIO2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestNonBlockingNIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestNIO_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3035">
@@ -1080,25 +873,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaScript/js-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaScript/js-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-216" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaScript/js-1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaScript/helloworld.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/js-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-6/cities.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-6/ex-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/exer/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/java1/OrderTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/java2/PackageImportTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1487">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/exer/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java1/OrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java2/PackageImportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="61" column="8" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/songhongkangJava30Days/day10/com/atguigu/java2/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/dom-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaScript/ex-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
