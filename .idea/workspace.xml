@@ -9,7 +9,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="" />
+    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,11 +64,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForEach.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java8/lamda/ForEach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +101,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/summary/GC/JavaHeapSpaceDemo.java" />
         <option value="$PROJECT_DIR$/src/summary/JUC/TestVolatile.java" />
         <option value="$PROJECT_DIR$/src/summary/JUC/Test.java" />
         <option value="$PROJECT_DIR$/src/summary/JUC/TestCopyOnWriteArrayList.java" />
@@ -160,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/javaScript/dom-8.html" />
         <option value="$PROJECT_DIR$/src/javaScript/ex-4.html" />
         <option value="$PROJECT_DIR$/src/1.txt" />
+        <option value="$PROJECT_DIR$/src/Java8/lamda/ForEach.java" />
       </list>
     </option>
   </component>
@@ -195,9 +209,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1935" />
-    <option name="height" value="1040" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -215,13 +230,35 @@
               <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java300" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="lamda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,8 +275,12 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SelfLearn\Java300\src\songhongkangJava30Days\day10" />
+      <recent name="E:\SelfLearn\Java300\src\javaScript\ex-6" />
+      <recent name="E:\SelfLearn\Java300\src\javaScript" />
       <recent name="E:\自我提升\Java300" />
+      <recent name="E:\自我提升\Java300\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="网络编程.net.tcp.MyChat" />
@@ -247,12 +288,8 @@
       <recent name="day11.MyThread" />
       <recent name="day1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SelfLearn\Java300\src\songhongkangJava30Days\day10" />
-      <recent name="E:\SelfLearn\Java300\src\javaScript\ex-6" />
-      <recent name="E:\SelfLearn\Java300\src\javaScript" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\自我提升\Java300" />
-      <recent name="E:\自我提升\Java300\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,7 +304,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.dom-5.html">
+  <component name="RunManager" selected="Application.ForEach">
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.lamda.ForEach" />
+      <module name="Java300" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.lamda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -287,7 +335,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="dom-3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-3.html" />
     <configuration name="dom-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-4.html" />
     <configuration name="dom-5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/dom-5.html" />
     <configuration name="ex-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java300/javaScript/ex-1.html" />
@@ -387,19 +434,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.TomcatWdz" />
-      <item itemvalue="JavaScript Debug.dom-3.html" />
       <item itemvalue="JavaScript Debug.dom-4.html" />
       <item itemvalue="JavaScript Debug.ex-1.html" />
       <item itemvalue="JavaScript Debug.ex-2.html" />
       <item itemvalue="JavaScript Debug.dom-5.html" />
+      <item itemvalue="Application.ForEach" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach" />
         <item itemvalue="JavaScript Debug.dom-5.html" />
         <item itemvalue="JavaScript Debug.ex-2.html" />
         <item itemvalue="JavaScript Debug.ex-1.html" />
         <item itemvalue="JavaScript Debug.dom-4.html" />
-        <item itemvalue="JavaScript Debug.dom-3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +513,9 @@
       <workItem from="1569418295267" duration="6648000" />
       <workItem from="1569508123012" duration="2055000" />
       <workItem from="1570629252172" duration="789000" />
-      <workItem from="1570803654896" duration="439000" />
+      <workItem from="1570803654896" duration="1264000" />
+      <workItem from="1571238857051" duration="425000" />
+      <workItem from="1572099007165" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="第三天测试">
       <created>1562147483286</created>
@@ -532,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268612000" />
+    <option name="totallyTimeSpent" value="270701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,7 +593,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="1" />
@@ -564,11 +613,11 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3293944" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5052161" />
       <window_info id="Version Control" order="5" sideWeight="0.48596752" side_tool="true" weight="0.18498659" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5052161" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.52584934" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.21179625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5140325" visible="true" weight="0.17270789" />
       <window_info anchor="bottom" id="Problems" order="12" weight="0.3293944" />
       <window_info id="Web" order="9" sideWeight="0.67799115" side_tool="true" weight="0.25134048" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -579,9 +628,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3293944" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Hierarchy" order="8" sideWeight="0.661743" side_tool="true" weight="0.15616623" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3293944" />
     </layout>
     <layout-to-restore>
       <window_info id="FindBugs-IDEA" order="5" sideWeight="0.124076806" side_tool="true" weight="0.15616623" />
@@ -676,17 +725,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestNIO_2.java">
+    <entry file="file://$PROJECT_DIR$/src/1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3035">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/summary/NIO/day2/TestBlockingNIOWDZ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -999,7 +1041,17 @@
     <entry file="file://$PROJECT_DIR$/src/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/lamda/ForEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
