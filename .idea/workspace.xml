@@ -9,7 +9,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="遍历list的几种方式总结 测试测试" />
+    <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="遍历list的几种方式总结 测试测试123456">
+      <change beforePath="$PROJECT_DIR$/out/production/Java300/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +47,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,7 +115,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -144,7 +147,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo2">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.staticProxy.Client" />
+      <module name="Java300" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.staticProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IteratorForList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8.iteratorForList.IteratorForList" />
       <module name="Java300" />
@@ -194,20 +211,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exception20191211.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeWayForThread.ThreadTest06" />
-      <module name="Java300" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreeWayForThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadTest06" />
       <item itemvalue="Application.IteratorForList" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.TestDemo" />
       <item itemvalue="Application.TestDemo2" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.TestDemo2" />
         <item itemvalue="Application.TestDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.IteratorForList" />
-        <item itemvalue="Application.ThreadTest06" />
       </list>
     </recent_temporary>
   </component>
@@ -453,40 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1584354320407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="遍历list的几种方式总结 测试测试123456">
+      <created>1584354468574</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584354468574</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="TestNonBlockingNIO_client - 2019.07.29 at 00h 04m 50s.xml">
-      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_server - 2019.07.29 at 00h 04m 50s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_client - 2019.07.29 at 00h 05m 25s.xml">
-      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_server - 2019.07.29 at 00h 05m 30s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_client - 2019.07.29 at 00h 05m 53s.xml">
-      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_server - 2019.07.29 at 00h 07m 01s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_client - 2019.07.29 at 00h 08m 21s.xml">
-      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO2_receive - 2019.07.29 at 00h 09m 34s.xml">
-      <configuration name="TestNonBlockingNIO2.receive" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO2_receive - 2019.07.29 at 00h 11m 25s.xml">
-      <configuration name="TestNonBlockingNIO2.receive" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO2_send - 2019.07.29 at 00h 11m 25s.xml">
-      <configuration name="TestNonBlockingNIO2.send" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="279714000" />
@@ -523,7 +501,8 @@
     <MESSAGE value="创建多线程的三种方式" />
     <MESSAGE value="遍历list的几种方式总结" />
     <MESSAGE value="遍历list的几种方式总结 测试测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="遍历list的几种方式总结 测试测试" />
+    <MESSAGE value="遍历list的几种方式总结 测试测试123456" />
+    <option name="LAST_COMMIT_MESSAGE" value="遍历list的几种方式总结 测试测试123456" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
