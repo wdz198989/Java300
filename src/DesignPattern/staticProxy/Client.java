@@ -6,6 +6,7 @@ public class Client {
         TeacherDao teacherDao = new TeacherDao();
         //创建代理对象,同时将被代理对象传递给代理对象
         TeacherDaoProxy teacherDaoProxy = new TeacherDaoProxy(teacherDao);
+
         teacherDaoProxy.teach();
         teacherDaoProxy.say();
 

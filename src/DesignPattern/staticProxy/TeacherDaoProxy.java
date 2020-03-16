@@ -1,6 +1,7 @@
 package DesignPattern.staticProxy;
 //代理对象，静态代理
 public class TeacherDaoProxy implements ITeacherDao{
+
     private  ITeacherDao target;// 目标对象，通过接口来进行代理
 
     // 构造器
