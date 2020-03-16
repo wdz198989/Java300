@@ -28,5 +28,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Spring-4.3.18.RELEASE" level="project" />
   </component>
 </module>

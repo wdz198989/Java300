@@ -10,10 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5753bfb4-b514-48ee-af04-e445cf0471c8" name="Default" comment="遍历list的几种方式总结 测试测试123456">
-      <change beforePath="$PROJECT_DIR$/out/production/Java300/DesignPattern/staticProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java300/DesignPattern/staticProxy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java300/DesignPattern/staticProxy/TeacherDaoProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java300/DesignPattern/staticProxy/TeacherDaoProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/staticProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/staticProxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/staticProxy/TeacherDaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/staticProxy/TeacherDaoProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java300.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java300.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java300/DesignPattern/dynamicProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java300/DesignPattern/dynamicProxy/Client.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.dynamicProxy.Client" />
       <module name="Java300" />
@@ -164,13 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.staticProxy.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.cglibProxy.Client" />
       <module name="Java300" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.staticProxy.*" />
+          <option name="PATTERN" value="DesignPattern.cglibProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.iteratorForList.Test" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.staticProxy.Client" />
       <module name="Java300" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.iteratorForList.*" />
+          <option name="PATTERN" value="DesignPattern.staticProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.TestDemo" />
       <item itemvalue="Application.TestDemo2" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.TestDemo2" />
         <item itemvalue="Application.TestDemo" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
