@@ -32,7 +32,6 @@ class Mirror {
 
 }
 //»¯×±
-
 class Markup extends Thread {
     static Lipstick lipstick = new Lipstick();
     static Mirror mirror = new Mirror();
