@@ -26,16 +26,6 @@ public class SynDemo01 {
 }
 
 
-
-
-
-
-
-
-
-
-
-
 /**
  * 线程安全的类
  * @author Administrator
