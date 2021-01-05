@@ -22,6 +22,20 @@ public class OldWay1 {
         list.add(zhangsan);
         list.add(lisi);
         Map<String ,List<User>> map = new HashMap<>();
+        //¿ì½Ý¼ü
+        //new HashMap().var
+        //HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
+
+        /*Boolean flag =true;
+        //flag.if
+        if (flag) {
+
+        }
+        //flag.else
+        if (!flag) {
+
+        }*/
+
 
         list.forEach(user->{
             String name = user.getName();
@@ -32,6 +46,8 @@ public class OldWay1 {
             users.add(user);
             map.put(name,users);
         });
+
+
         System.out.println(map);
     }
 }

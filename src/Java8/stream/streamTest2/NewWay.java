@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * @Date :2020/11/25 11:54
  * @Description : 新的方式
  */
-public class NewWay {
+public class   NewWay {
     public static void main(String[] args) {
         User zhangsan = new User(1,"张三",2,1);
         User lisi = new User(2,"李四",200,200);
